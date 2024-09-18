@@ -38,7 +38,7 @@
 }
 
 body {
-    background-image: url(https://flowbite.s3.amazonaws.com/docs/jumbotron/conference.jpg);
+    /* background-image: url(https://flowbite.s3.amazonaws.com/docs/jumbotron/conference.jpg); */
     background-size: cover;
     background-blend-mode: multiply;
     --tw-bg-opacity: 1;
